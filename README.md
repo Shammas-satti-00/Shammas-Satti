@@ -2,7 +2,7 @@ Who I Am
 I’m Shammas-ul-Islam, a driven and curious Computer Science student with a strong interest in solving real-world problems using software and AI. I enjoy building intelligent systems and creating impactful digital experiences across platforms.
 
 My Background
-I’m currently pursuing a Bachelor’s degree in Computer Science (2021–2025) from PMAS Arid Agriculture University, Rawalpindi. Over the years, I’ve built a diverse set of skills through academic projects and self-driven learning—ranging from AI, mobile development, game development to full-stack web applications. My technical foundation includes languages like C++, Java, Python, and frameworks like React, Django, and Unity.
+I have completed a Bachelor’s degree in Computer Science (2021–2025) from PMAS Arid Agriculture University, Rawalpindi. Over the years, I’ve built a diverse set of skills through academic projects and self-driven learning—ranging from AI, mobile development, game development to full-stack web applications. My technical foundation includes languages like C++, Java, Python, and frameworks like React, Django, and Unity.
 
 My Approach
 I approach development with a problem-solving mindset and a strong focus on clarity, efficiency, and real-world usability. Whether working solo or in teams, I prioritize communication, adaptability, and continuous learning to ensure the final product is both functional and future-proof.
