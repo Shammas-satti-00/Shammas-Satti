@@ -1,31 +1,37 @@
-Who I Am
-I’m Shammas-ul-Islam, a driven and curious Computer Science student with a strong interest in solving real-world problems using software and AI. I enjoy building intelligent systems and creating impactful digital experiences across platforms.
 
-My Background
-I have completed a Bachelor’s degree in Computer Science (2021–2025) from PMAS Arid Agriculture University, Rawalpindi. Over the years, I’ve built a diverse set of skills through academic projects and self-driven learning—ranging from AI, mobile development, game development to full-stack web applications. My technical foundation includes languages like C++, Java, Python, and frameworks like React, Django, and Unity.
+# 👋 Hi, I'm Shammas Satti
 
-My Approach
-I approach development with a problem-solving mindset and a strong focus on clarity, efficiency, and real-world usability. Whether working solo or in teams, I prioritize communication, adaptability, and continuous learning to ensure the final product is both functional and future-proof.
+**AI & Game Developer | Python, C++, Unity 3D | Machine Learning & Web Development**
 
-My Values
-Integrity: I believe in honest work and delivering quality results.
+---
 
-Growth: I strive to continuously improve and learn from every project or challenge.
+## 🚀 About Me
+I'm passionate about blending **AI** with interactive technologies to create intelligent and creative digital experiences. My work centers on innovating in game and AI-driven development, always pushing boundaries at the intersection of technology and imagination.
 
-Collaboration: Great ideas come from teamwork—I value open communication and knowledge-sharing.
+- **Goal:** To innovate in game and AI-driven development.
+- **Fun Fact:** Love playing video games and exploring new game mechanics!
 
-Impact: I aim to build software that solves problems and adds value to users.
+---
 
-What I Do Best
-I excel at turning ideas into working products. From developing AI-powered applications and mobile apps to building game projects and desktop software, I’m particularly skilled at:
+## 🛠️ Skills & Technologies
+- **Programming:** Python, C++
+- **Game Engines:** Unity 3D
+- **AI/ML:** PyTorch, Machine Learning
+- **Web Development:** Full Stack
 
-Designing intelligent systems (e.g., deepfake detection with sentiment analysis)
+---
 
-Full-stack web development
+## 🎮 Favorite Projects
+- **MARLIN Deepfake Detector:** AI-based detection system
+- **Skill Matcher:** AI Resume-Job Matching App
+- **Shadow Runner:** C++ Cyber-Themed Game
+- **RPG Combat Game Environment:** Custom RPG-style mechanics
 
-Android application development
+---
 
-Game development using Unity and OpenGL
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shammas-satti00/) <!-- Add your LinkedIn URL -->
 
-Writing clean, maintainable, and scalable code
+---
 
+![Shammas Satti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shammas-satti-00&show_icons=true&theme=radical)
