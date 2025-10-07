@@ -31,7 +31,7 @@ I'm passionate about blending **AI** with interactive technologies to create int
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shammas-satti00/) <!-- Add your LinkedIn URL -->
-
+- [Gmail](Shammassatti00@gmail.com)
 ---
 
 ![Shammas Satti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shammas-satti-00&show_icons=true&theme=radical)
