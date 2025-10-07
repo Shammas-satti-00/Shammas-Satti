@@ -24,7 +24,7 @@ I'm passionate about blending **AI** with interactive technologies to create int
 ## 🎮 Favorite Projects
 - **MARLIN Deepfake Detector:** AI-based detection system
 - **Skill Matcher:** AI Resume-Job Matching App
-- **Shadow Runner:** C++ Cyber-Themed Game
+- **Shadow Runner:** C# Cyber-Themed Game
 - **RPG Combat Game Environment:** Custom RPG-style mechanics
 
 ---
