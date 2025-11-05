@@ -22,7 +22,7 @@ I’m a **Computer Science student (2021–2025)** at **PMAS ARID Agriculture Un
 
 💡 My goal is to blend **game mechanics, AI, and creativity** to build engaging, intelligent, and performance-optimized virtual worlds.
 
-- 🔭 **Currently Working On:** VR Game Environment (Unity + XR Toolkit)  
+- 🔭 **Currently Working On:** Paladin of the North.  
 - 🌱 **Learning:** AI Integration in Game Engines & Neural NPCs  
 - 💬 **Ask Me About:** Unity 3D, C#, C++, AI Systems, Game Logic, and Web Integration  
 - ⚡ **Fun Fact:** My first full game was a custom RPG combat system entirely coded in C#.  
