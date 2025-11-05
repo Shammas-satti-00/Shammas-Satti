@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Computer Science student (2021–2025)** at **PMAS ARID Agriculture University, Rawalpindi**, passionate about creating immersive **2D/3D games** and integrating **AI-driven features** into interactive experiences.  
+I’m a **Computer Science Graduate (2021–2025)** at **PMAS ARID Agriculture University, Rawalpindi**, passionate about creating immersive **2D/3D games** and integrating **AI-driven features** into interactive experiences.  
 
 💡 My goal is to blend **game mechanics, AI, and creativity** to build engaging, intelligent, and performance-optimized virtual worlds.
 
