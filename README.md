@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1a1a1a&height=200&section=header&text=Shammas-ul-Islam%20Satti&fontSize=40&fontColor=#FFFFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1a1a1a&height=200&section=header&text=Shammas-ul-Islam%20Satti&fontSize=40&fontColor=58a6ff&animation=fadeIn" width="100%" />
 </p>
 
 <h3 align="center">🎮 Game Developer | 🤖 AI & ML Enthusiast | 💡 Computer Science Graduate (2025)</h3>
