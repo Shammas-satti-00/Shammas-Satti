@@ -1,149 +1,287 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/Shammas-satti-00/Shammas-satti-00/assets/placeholder-banner.gif" alt="Shammas-ul-Islam Satti Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Shammas-ul-Islam Satti</span></h1>
-<h3 align="center">🎮 Game Developer | 🤖 AI & ML Enthusiast | 💡 Computer Science Graduate (2025)</h3>
+# 👋 Hi, I'm Shammas-ul-Islam Satti
 
-<p align="center">
-  <a href="https://github.com/Shammas-satti-00"><img src="https://img.shields.io/github/followers/Shammas-satti-00?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:shammassatti00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/shammas-ul-islam-660895275/"><img src="https://img.shields.io/badge/LinkedIn-Shammas--ul--Islam-blue?logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="https://portfolio-new-tau-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
-</p>
+### 🎮 Game Developer | 🤖 AI & ML Enthusiast | 💻 Computer Science Graduate 2025
+
+[![GitHub followers](https://img.shields.io/github/followers/Shammas-satti-00?label=Follow&style=social)](https://github.com/Shammas-satti-00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/shammas-satti00/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://portfolio-new-tau-peach.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:shammassatti00@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a **Computer Science graduate (2025)** from PMAS ARID Agriculture University, Rawalpindi. I build games, VR/AR experiences and AI-integrations — from prototypes to polished demos. My core interests are Unity, C# game systems, and integrating ML/AI into interactive experiences.
+Computer Science graduate from **PMAS ARID Agriculture University, Rawalpindi** with a passion for building immersive games and intelligent systems. I specialize in Unity 3D development, VR/AR experiences, and AI integration in interactive applications.
 
-- 🔭 **Currently working on:** *Paladin of the North* — an RPG prototype.  
-- 🌱 **Learning:** Neural NPCs, AI-driven gameplay, Unity optimization, and web integration.  
-- 💬 **Ask me about:** Unity 3D, C#, C++, VR/XR, game AI, Flask + Python web apps.  
-- ⚡ **Fun fact:** My first full game featured a custom RPG combat system coded entirely in C#.
-
----
-
-## 🧠 Technical Arsenal
-
-| Category | Skills & Tools |
-|---|---|
-| 🎮 Game Dev | Unity 3D, XR Interaction Toolkit, C#, Gameplay Systems, Animations, Physics, Level Design |
-| 🧠 AI / ML | Python, PyTorch, model evaluation, data pipelines (project-level experience) |
-| 💻 Web & Backend | JavaScript, React, TypeScript, Flask, Node basics |
-| 🗄️ DB & Storage | MySQL, MongoDB, basic SQL |
-| 🧰 Tools | Visual Studio, VS Code, Android Studio, Git, GitHub |
-| 🧩 Languages | C#, C++, Python, JavaScript, Java |
+- 🔭 **Currently Building:** *Paladin of the North* — An RPG adventure (In Progress)
+- 🌱 **Learning:** Neural NPCs, AI-driven gameplay mechanics, Unity optimization
+- 💬 **Ask Me About:** Unity 3D, C#, C++, VR/XR, Game AI, Flask + Python
+- ⚡ **Fun Fact:** My first complete game featured a custom RPG combat system coded entirely in C#
 
 ---
 
-## 🚀 Featured Projects (pick of the repo list)
+## 🛠️ Technical Skills
 
-> **Note:** click the project name to go to the repo.
+<table>
+<tr>
+<td><b>🎮 Game Development</b></td>
+<td>Unity 3D, XR Interaction Toolkit, C#, Gameplay Systems, Animations, Physics, Level Design</td>
+</tr>
+<tr>
+<td><b>🧠 AI & Machine Learning</b></td>
+<td>Python, PyTorch, NLP, Model Evaluation, Data Pipelines</td>
+</tr>
+<tr>
+<td><b>💻 Web Development</b></td>
+<td>JavaScript, TypeScript, React, Flask, Node.js</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>MySQL, MongoDB, SQL Server</td>
+</tr>
+<tr>
+<td><b>🧰 Tools & Platforms</b></td>
+<td>Visual Studio, VS Code, Android Studio, Git, GitHub, OpenGL</td>
+</tr>
+<tr>
+<td><b>🧩 Languages</b></td>
+<td>C#, C++, Python, JavaScript, Java</td>
+</tr>
+</table>
 
-### 🕹️ [Paladin-of-the-North](https://github.com/Shammas-satti-00/Paladin-of-the-North) — *RPG Prototype*
-A story-driven RPG where the Paladin returns to reclaim a throne overrun by a demon. Contains combat systems, quest logic, and level design prototypes.  
-**Status:** Unity project — open the Unity scene to play / iterate.
+---
 
-### 🤖 [AI-Powered-Skill-Matcher-](https://github.com/Shammas-satti-00/AI-Powered-Skill-Matcher-) — *NLP Resume ↔️ JD matcher*
-A Flask + Python NLP system for semantic matching between resumes and job descriptions (SentenceTransformers style). Supports PDF / DOCX parsing and provides matched/missing skills and suggested trainings.  
-**How to run (quick):**
+## 🎮 Featured Game Projects
+
+### 🗡️ [Paladin of the North](https://github.com/Shammas-satti-00/Paladin-of-the-North)
+> **Status:** 🚧 In Active Development
+
+A story-driven RPG where a Paladin returns to reclaim his throne from a brutal demon. Features custom combat systems, quest logic, and immersive level design.
+
+**Tech Stack:** Unity 3D, C#, Custom Combat Systems
+
+---
+
+### 🏃 [Shape Runner Shifter](https://github.com/Shammas-satti-00/Shape-Runner-Shifter-Unity-3d)
+An innovative endless runner where players morph between shapes (ball, cube, jet) to navigate through matching obstacles. Features dynamic shape-shifting mechanics and polished visuals.
+
+**Tech Stack:** Unity 3D, C#, ShaderLab, Particle Systems
+
+---
+
+### 🕹️ [Super Runner 2D](https://github.com/Shammas-satti-00/Super-Runner-2D-Unity-3d)
+Classic Mario-style 2D platformer with smooth animations, collectibles, and engaging sound effects.
+
+**Tech Stack:** Unity 3D, C#, 2D Physics
+
+---
+
+### 🕶️ [VR Tutorial Environment](https://github.com/Shammas-satti-00/VR-Tutorial-Unity-3D)
+Interactive VR environment built with XR Interaction Toolkit and MockHMD for headset-free testing. Perfect for VR development onboarding.
+
+**Tech Stack:** Unity 3D, XR Interaction Toolkit, MockHMD
+
+---
+
+### ⚔️ [Grid Battle Arena](https://github.com/Shammas-satti-00/Grid-Battle-Arena-Unity-3D)
+Turn-based tactical combat game with grid-based movement and strategic gameplay.
+
+**Tech Stack:** Unity 3D, C#, ShaderLab
+
+---
+
+### 🏎️ [Furious Racer](https://github.com/Shammas-satti-00/Furious-Racer-Unity-3d)
+Time-trial racing game featuring quad bike mechanics and challenging tracks.
+
+**Tech Stack:** Unity 3D, C#, Vehicle Physics
+
+---
+
+### 👾 [Fabulous Shooter](https://github.com/Shammas-satti-00/Fabulous-Shooter-Unity-3d)
+First-person shooter with alien enemies, complete with sound effects and polished gameplay.
+
+**Tech Stack:** Unity 3D, C#, FPS Controller
+
+---
+
+### 🎯 [Atiana Roblox](https://github.com/Shammas-satti-00/Atiana-Roblox-Unity-3d)
+3D platformer with 5 levels featuring task completion mechanics and full gameplay loop.
+
+**Tech Stack:** Unity 3D, C#
+
+---
+
+### 🌟 [3rd Person Platform Game](https://github.com/Shammas-satti-00/3rd-Person-Unity-Game)
+3D platformer with coin collection mechanics and character animations.
+
+**Tech Stack:** Unity 3D, C#, Animation System
+
+---
+
+### 🏃‍♂️ [Endless Runner](https://github.com/Shammas-satti-00/Endless-Runner-Unity-3d)
+Classic endless runner with procedural generation and imported assets.
+
+**Tech Stack:** Unity 3D, C#, Procedural Generation
+
+---
+
+### 🎮 [Flappy Mario (OpenGL)](https://github.com/Shammas-satti-00/Flappy-Mario-Game-in-C-with-opengl-)
+A tribute to classic Mario games built from scratch using C++ and OpenGL.
+
+**Tech Stack:** C++, OpenGL
+
+---
+
+## 🤖 AI & Web Projects
+
+### 🧠 [AI-Powered Skill Matcher](https://github.com/Shammas-satti-00/AI-Powered-Skill-Matcher-)
+NLP-based system for semantic matching between resumes and job descriptions using SentenceTransformers. Supports PDF/DOCX parsing and provides skill gap analysis.
+
+**Tech Stack:** Python, Flask, NLP, SentenceTransformers
+
+**Quick Start:**
 ```bash
 git clone https://github.com/Shammas-satti-00/AI-Powered-Skill-Matcher-.git
 cd AI-Powered-Skill-Matcher-
 python -m venv venv
-source venv/bin/activate   # or `venv\Scripts\activate` on Windows
+source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-# open http://localhost:5000
-🕶️ VR-Tutorial-Unity-3D — VR environment & MockHMD testing
-First VR experiments: interactive environment that uses XR Interaction Toolkit and MockHMD for headset-free testing. Good reference for VR onboarding and for testing interactions without hardware.
+# Open http://localhost:5000
+```
 
-🏁 Shape-Runner-Shifter-Unity-3d — Mechanic-focused runner
-Player morphs into shapes (ball, cube, jet) to pass obstacles. Demonstrates mechanic-driven design, shaders, and polished camera transitions.
+---
 
-🕹️ Super-Runner-2D-Unity-3d — 2D platformer
-Classic Mario-style 2D platformer with sound, animations and collectibles.
+### 🎭 [AI-Powered Deepfake Detection](https://github.com/Shammas-satti-00/AI-Powered-Deepfake-Detection-with-Sentiment-Analysis)
+Combines deepfake detection with sentiment analysis to identify manipulated videos and analyze emotional impact.
 
-🌐 Portfolio-new — Personal portfolio
-Your portfolio site (deployed on Vercel). Source code for the personal site that links to projects & contact.
+**Tech Stack:** Python, Deep Learning, Computer Vision
 
-🛍️ shoplyvogue-kidz-style — E-commerce front-end (TypeScript)
-An online-store website project (front-end) — useful to show full-stack capabilities when paired with a backend.
+---
 
-Full repository list (selected):
+### 🌐 [Shoplyvogue - Kids Style](https://github.com/Shammas-satti-00/shoplyvogue-kidz-style)
+E-commerce front-end for children's fashion with modern UI/UX.
 
-Paladin-of-the-North — Unity (RPG)
+**Tech Stack:** TypeScript, React, Next.js
 
-VR-Tutorial-Unity-3D — Unity (VR)
-
-AI-Powered-Skill-Matcher- — Python (Flask/NLP)
-
-Shape-Runner-Shifter-Unity-3d — Unity (Mechanics)
-
-Super-Runner-2D-Unity-3d — Unity (2D)
-
-Portfolio-new — front-end portfolio
-
-shoplyvogue-kidz-style — TypeScript e-commerce front-end
-
-Shadow-Runner — WebGL / three.js runner demo
-
-Grid-Battle-Arena-Unity-3D — Turn-based grid arena
-
-📦 How to run my main (non-Unity) projects
-AI-Powered-Skill-Matcher (Python / Flask)
-Clone repo
-
-Create venv and install requirements
-
-Run python app.py and open the browser
-
-Tips: If you see transformer / SentenceTransformer models being loaded, allow a bit time on first run (or switch to smaller local models for demos).
-
-shoplyvogue-kidz-style (Frontend)
+**Quick Start:**
+```bash
 git clone https://github.com/Shammas-satti-00/shoplyvogue-kidz-style.git
-
 cd shoplyvogue-kidz-style
+npm install
+npm run dev
+```
 
-npm install or pnpm install
+---
 
-npm run dev (or npm run build + npm run start)
+### 🎮 [Shadow Runner](https://github.com/Shammas-satti-00/Shadow-Runner)
+WebGL runner game built with Three.js showcasing web-based 3D game development.
 
-🛠 Unity projects — quick notes
-Each Unity repo contains a README with the Unity version used (open the ProjectSettings/ProjectVersion.txt). Use the same or later Unity Editor to avoid upgrade issues.
+**Tech Stack:** JavaScript, Three.js, WebGL
 
-For playtesting:
+---
 
-Clone the repo.
+### 💼 [Personal Portfolio](https://github.com/Shammas-satti-00/Portfolio-new)
+Modern portfolio website showcasing projects and skills.
 
-Open Unity Hub → Add project → Select cloned folder.
+**Tech Stack:** JavaScript, React, Vercel
+**Live Demo:** [portfolio-new-tau-peach.vercel.app](https://portfolio-new-tau-peach.vercel.app/)
 
-Open the main scene (look in Assets/Scenes).
+---
 
-For VR projects using MockHMD: enable the XR plugin and MockHMD package and follow the README steps inside the repo.
+## 🖥️ Desktop & Academic Projects
 
-📈 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shammas-satti-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shammas-satti-00&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shammas-satti-00&theme=tokyo-night&hide_border=true" width="95%"/> </p>
-🎯 Goals & Roadmap
-Finish and polish Paladin of the North (core combat, save system, polish).
+### 🗳️ [Voting Application](https://github.com/Shammas-satti-00/Voting-Application-Desktop-App-C-)
+Desktop voting system with SQL database integration and user-friendly interface for voters and admins.
 
-Integrate a small ML-driven NPC behavior system for one demo level.
+**Tech Stack:** C#, SQL Server, Windows Forms
 
-Improve portfolio with video walkthroughs and playable web builds (WebGL) for small demos.
+---
 
-🤝 Let's collaborate
-Email: shammassatti00@gmail.com
+### 📚 [Library Management System](https://github.com/Shammas-satti-00/Java-Semester-Project)
+Complete library management system with GUI for managing students and books.
 
-LinkedIn: https://www.linkedin.com/in/shammas-ul-islam-660895275/
+**Tech Stack:** Java, NetBeans, GUI
 
-GitHub: https://github.com/Shammas-satti-00
+---
 
-If you want help polishing a repo README (run instructions, screenshots, build badges), CI/CD for your portfolio (Vercel/GitHub Actions), or converting Unity demos to WebGL builds — ping me and I’ll help.
+### 📖 [E-Library Website](https://github.com/Shammas-satti-00/E-Library-Website)
+Web-based library platform with modern design.
 
-"Code is my brush, imagination my canvas — together they create worlds."
-— Shammas-ul-Islam Satti
+**Tech Stack:** HTML, CSS, SCSS
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:141414&height=90&section=footer" width="100%"/> </p> ```
+---
+
+### 🎓 [C++ Semester Project](https://github.com/Shammas-satti-00/C-semester-Project-)
+Academic project demonstrating C++ proficiency.
+
+**Tech Stack:** C++
+
+---
+
+## 🎯 Unity Project Setup Guide
+
+**Prerequisites:** Unity Hub, Unity Editor (check ProjectSettings/ProjectVersion.txt in each repo)
+
+1. Clone the repository
+2. Open Unity Hub → Add Project → Select cloned folder
+3. Open the main scene (usually in Assets/Scenes)
+4. Press Play to test
+
+**For VR Projects:** Enable XR Plugin Management and MockHMD package as per repo README
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shammas-satti-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shammas-satti-00&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shammas-satti-00&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- ✅ Complete core combat system for *Paladin of the North*
+- 🔄 Integrate ML-driven NPC behaviors
+- 🔄 Create WebGL demos for portfolio projects
+- 🔄 Add video walkthroughs to key projects
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-shammassatti00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shammassatti00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shammas--satti00-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shammas-satti00/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-tau-peach.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Shammas--satti--00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shammas-satti-00)
+
+**Open to collaborations on:**
+- 🎮 Unity game development
+- 🤖 AI/ML integration in games
+- 🌐 Web-based interactive experiences
+- 📱 VR/AR projects
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Code is my brush, imagination my canvas — together they create worlds."*
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:141414&height=90&section=footer)
+
+</div>
