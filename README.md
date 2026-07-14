@@ -170,12 +170,6 @@ I'm a **Computer Science Graduate (2025)** from **PMAS ARID Agriculture Universi
 
 ---
 
-<h3 align="center">💬 Quote</h3>
-<p align="center"><i>"Code is my brush, imagination my canvas, together they create worlds."</i></p>
-<p align="center"><b>Shammas-ul-Islam Satti</b></p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:141414&height=90&section=footer" width="100%"/>
 </p>
