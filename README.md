@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1a1a1a&height=200&section=header&text=Shammas-ul-Islam%20Satti&fontSize=40&fontColor=58a6ff&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">🎮 Game Developer | 🤖 AI & ML Enthusiast | 💡 Computer Science Graduate (2025)</h3>
+<h3 align="center">🎮 Game Developer | 🤖 AI & ML Enthusiast | 💡 Computer Science Graduate</h3>
 
 <p align="center">
   <a href="https://github.com/Shammas-satti-00"><img src="https://img.shields.io/github/followers/Shammas-satti-00?label=Follow&style=social" alt="GitHub Followers"></a>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Graduate (2025)** from **PMAS ARID Agriculture University, Rawalpindi**, passionate about building immersive **2D/3D games** and integrating **AI-driven features** into interactive experiences. My goal is to blend **game mechanics, AI, and creativity** to create engaging, intelligent, and performance-optimized virtual worlds.
+I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Rawalpindi**, passionate about building immersive **2D/3D games** and integrating **AI-driven features** into interactive experiences. My goal is to blend **game mechanics, AI, and creativity** to create engaging, intelligent, and performance-optimized virtual worlds.
 
 - 🔭 **Currently Working On:** *Paladin of the North* — RPG Prototype (In Progress)
 - 🌱 **Learning:** AI Integration in Game Engines & Neural NPCs
