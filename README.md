@@ -20,7 +20,7 @@ I'm a **Computer Science Graduate (2025)** from **PMAS ARID Agriculture Universi
 
 - 🔭 **Currently Working On:** *Paladin of the North* — RPG Prototype (In Progress)
 - 🌱 **Learning:** AI Integration in Game Engines & Neural NPCs
-- 💬 **Ask Me About:** Unity 3D, C#, C++, VR/XR, Game AI, Flask + Python
+- 💬 **Ask Me About:** Unity 3D, C#, C++, VR/XR, Game AI, Flask 
 - ⚡ **Fun Fact:** My first full game featured a custom RPG combat system entirely coded in C#
 - 🎯 **Goal:** Join a creative game studio or AI-driven simulation team
 
